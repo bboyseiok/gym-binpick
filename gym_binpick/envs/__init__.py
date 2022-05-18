@@ -1,0 +1,1 @@
+from gym_binpick.envs.binpick_env import BinPickEnv3
